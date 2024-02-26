@@ -3,7 +3,7 @@
   <groupId>com.javatechie</groupId>
   <artifactId>observability</artifactId>
   <versioning>
-    <lastUpdated>20240226114835</lastUpdated>
+    <lastUpdated>20240226120906</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
@@ -11,12 +11,12 @@
       <snapshotVersion>
         <extension>pom</extension>
         <value>0.0.1-SNAPSHOT</value>
-        <updated>20240226114835</updated>
+        <updated>20240226120906</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
         <value>0.0.1-SNAPSHOT</value>
-        <updated>20240226114835</updated>
+        <updated>20240226120906</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
